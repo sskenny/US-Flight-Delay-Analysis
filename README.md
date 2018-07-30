@@ -1,5 +1,4 @@
-# DataViz
-
+# US FLight Delay Analysis
 ## Summary 
 We analyzed a data set of delayed flights from 2008 in the U.S. to determine the factors which contribute to delays. Among the factors inverstigated were individual airlines, total number of flights, time of day, month of year and airport. We were unable to perform further analysis on the reasons for delay because there were many missing values for the flight delay reason columns. 
 
