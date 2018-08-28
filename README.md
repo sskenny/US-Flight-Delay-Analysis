@@ -8,6 +8,8 @@ We analyzed a data set of delayed flights from 2008 in the U.S. to determine the
 
 2. Average Airline Delay Time: The major airline carriers, US Airways, United Airlines, and Southwest Airlines appear to have limited carrier-caused delay times on average. Conversely, all the carrier who shoulder the blame for the longest extended wait times are smaller airlines like Hawaii, Comair, and Atlantic Southeast. Lastly, Mesa Airlines is clearly the worst airline for those fliers who lack patience or loose schedules.
 
+![alt text](/Users/saronakenny/Documents/SCUSummerQuarter2018/Data Viz/Images/AverageAirlineCarrierDelays.png)
+
 3.  Airline Percent Flights Delayed: Unlike the average carrier delay times, the major airlines have the highest percentag of flights delayed. Interestingly, contrary to their laid-back image, the airlines representing Hawaii boast the most punctual departures of any carrier.
 
 4.  Percentage of Flights Delayed by Hour and Day: The heat map - Days Of Week + Time of Day, indicates that afternoons and evenings are relatively more delayed compared to mornings. Friday and Sunday evenings are at the peak of delays.
