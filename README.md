@@ -16,6 +16,10 @@ We analyzed a data set of delayed flights from 2008 in the U.S. to determine the
 3.  Airline Percent Flights Delayed: Unlike the average carrier delay times, the major airlines have the highest percentag of flights delayed. Interestingly, contrary to their laid-back image, the airlines representing Hawaii boast the most punctual departures of any carrier.
 
 4.  Percentage of Flights Delayed by Hour and Day: The heat map - Days Of Week + Time of Day, indicates that afternoons and evenings are relatively more delayed compared to mornings. Friday and Sunday evenings are at the peak of delays.
+<p align="center">
+   <img src= "https://github.com/sskenny/US-Flight-Delay-Analysis/blob/master/images/FlightDelaysbyDayHour.png"
+title="Flight Delays By Day and Hour">
+</p>
 
 5. Percentage of Flights Delayed by Month: light delays are maximum in the around holiday season. During Christmas and Thanksgiving, the delays could go up to 57%
 We have some outliers in the middle of February and end of March, where there are no holidays or any reason that stands out.
